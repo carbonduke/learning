@@ -1,15 +1,15 @@
 # Apple TV+ 分流规则
-HOST-SUFFIX, tv.apple.com, AppleTV
-HOST-SUFFIX, apple-tvplus.apple.com, AppleTV
-HOST-SUFFIX, play.itunes.apple.com, AppleTV
-HOST-SUFFIX, uts-api.itunes.apple.com, AppleTV
-HOST-SUFFIX, hls.itunes.apple.com, AppleTV
-HOST-SUFFIX, hls-svod.itunes.apple.com, AppleTV
-HOST-SUFFIX, itunes.g.aaplimg.com, AppleTV
-HOST-KEYWORD, apple-tvplus, AppleTV
-HOST, np-edge.itunes.apple.com, AppleTV
-HOST, play.itunes.apple.com, AppleTV
-HOST-SUFFIX, itunes.apple.com, AppleTV
-HOST-SUFFIX, apple.itunes.com, AppleTV
-HOST, amp-api.video-app.apple.com, AppleTV
-HOST, fits-v.itunes.apple.com, AppleTV
+HOST-SUFFIX, tv.apple.com, Apple TV+
+HOST-SUFFIX, apple-tvplus.apple.com, Apple TV+
+HOST-SUFFIX, play.itunes.apple.com, Apple TV+
+HOST-SUFFIX, uts-api.itunes.apple.com, Apple TV+
+HOST-SUFFIX, hls.itunes.apple.com, Apple TV+
+HOST-SUFFIX, hls-svod.itunes.apple.com, Apple TV+
+HOST-SUFFIX, itunes.g.aaplimg.com, Apple TV+
+HOST-KEYWORD, apple-tvplus, Apple TV+
+HOST, np-edge.itunes.apple.com, Apple TV+
+HOST, play.itunes.apple.com, Apple TV+
+HOST-SUFFIX, itunes.apple.com, Apple TV+
+HOST-SUFFIX, apple.itunes.com, Apple TV+
+HOST, amp-api.video-app.apple.com, Apple TV+
+HOST, fits-v.itunes.apple.com, Apple TV+
