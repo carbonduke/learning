@@ -7,3 +7,9 @@ HOST-SUFFIX, hls.itunes.apple.com, AppleTV
 HOST-SUFFIX, hls-svod.itunes.apple.com, AppleTV
 HOST-SUFFIX, itunes.g.aaplimg.com, AppleTV
 HOST-KEYWORD, apple-tvplus, AppleTV
+HOST, np-edge.itunes.apple.com, AppleTV
+HOST, play.itunes.apple.com, AppleTV
+HOST-SUFFIX, itunes.apple.com, AppleTV
+HOST-SUFFIX, apple.itunes.com, AppleTV
+HOST, amp-api.video-app.apple.com, AppleTV
+HOST, fits-v.itunes.apple.com, AppleTV
