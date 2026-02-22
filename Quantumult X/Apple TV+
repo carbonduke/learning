@@ -1,0 +1,9 @@
+# Apple TV+ 分流规则
+HOST-SUFFIX, tv.apple.com, AppleTV
+HOST-SUFFIX, apple-tvplus.apple.com, AppleTV
+HOST-SUFFIX, play.itunes.apple.com, AppleTV
+HOST-SUFFIX, uts-api.itunes.apple.com, AppleTV
+HOST-SUFFIX, hls.itunes.apple.com, AppleTV
+HOST-SUFFIX, hls-svod.itunes.apple.com, AppleTV
+HOST-SUFFIX, itunes.g.aaplimg.com, AppleTV
+HOST-KEYWORD, apple-tvplus, AppleTV
