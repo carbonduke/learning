@@ -1,0 +1,20 @@
+# > PTCG 游戏主体与热更新 (核心流量)
+HOST-SUFFIX, p-tcgp.com, PTCG
+HOST-SUFFIX, apppokemon.com, PTCG
+HOST-SUFFIX, pokemon-support.com, PTCG
+HOST-KEYWORD, pokemon, PTCG
+
+# > 任天堂账号授权 (解决登录卡 10%/30% 的关键)
+HOST, accounts.nintendo.com, PTCG
+HOST, graph.nintendo.com, PTCG
+HOST-SUFFIX, nintendo.net, PTCG
+HOST-SUFFIX, nintendo.com, PTCG
+
+# > 宝可梦训练家俱乐部 (PTC) 登录验证
+HOST, sso.pokemon.com, PTCG
+HOST, login.pokemon.com, PTCG
+
+# > 登录初始化与环境检查 (防止进度条挂起)
+HOST-SUFFIX, adjust.com, PTCG
+HOST-SUFFIX, adj.st, PTCG
+HOST-SUFFIX, app-measurement.com, PTCG
