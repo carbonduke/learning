@@ -1,5 +1,5 @@
 # > PTCG 游戏主体与热更新 (核心流量)
-HOST-SUFFIX, p-tcgp.com, PTCG, force-policy
+HOST-SUFFIX, p-tcgp.com, PTCG
 HOST-SUFFIX, apppokemon.com, PTCG
 HOST-SUFFIX, pokemon-support.com, PTCG
 HOST-KEYWORD, pokemon, PTCG
@@ -8,7 +8,7 @@ HOST-KEYWORD, pokemon, PTCG
 HOST, accounts.nintendo.com, PTCG
 HOST, graph.nintendo.com, PTCG
 HOST-SUFFIX, nintendo.net, PTCG
-HOST-SUFFIX, nintendo.com, PTCG, force-policy
+HOST-SUFFIX, nintendo.com, PTCG
 
 # > 宝可梦训练家俱乐部 (PTC) 登录验证
 HOST, sso.pokemon.com, PTCG
