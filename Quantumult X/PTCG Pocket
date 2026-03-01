@@ -18,3 +18,9 @@ HOST, login.pokemon.com, PTCG
 HOST-SUFFIX, adjust.com, PTCG
 HOST-SUFFIX, adj.st, PTCG
 HOST-SUFFIX, app-measurement.com, PTCG
+HOST, api.p-tcgp.com, PTCG
+HOST, cdn.p-tcgp.com, PTCG
+HOST, api.pokemon-support.com, PTCG
+HOST, pdc-config.pokemon.com, PTCG
+HOST, accounts.nintendo.com, PTCG
+HOST, api.accounts.nintendo.com, PTCG
