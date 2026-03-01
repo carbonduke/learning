@@ -24,3 +24,5 @@ HOST, api.pokemon-support.com, PTCG
 HOST, pdc-config.pokemon.com, PTCG
 HOST, accounts.nintendo.com, PTCG
 HOST, api.accounts.nintendo.com, PTCG
+HOST, player-api-prod.app-41283.com, PTCG, force-policy
+HOST-SUFFIX, app-41283.com, PTCG, force-policy
