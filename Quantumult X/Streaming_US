@@ -1,6 +1,6 @@
 # Apple TV+ 分流规则
 HOST-SUFFIX, linear.tv.apple.com, Apple TV+
-HOST-SUFFIX, np-edge.itunes.apple.com, Apple TV+
+HOST-SUFFIX, play-edge.itunes.apple.com, Apple TV+
 
 # F1 TV 分流规则
 HOST-SUFFIX, formula1.com, F1TV
