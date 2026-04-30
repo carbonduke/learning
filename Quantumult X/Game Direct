@@ -1,0 +1,12 @@
+host-suffix,p01.lp1.d4c.srv.nintendo.net,direct
+host-suffix,cdn.nintendo.net,direct
+host-suffix,ccs.cdn.nintendo.net,direct
+host-suffix,ecs.cdn.nintendo.net,direct
+host-suffix,lp1.cdn.nintendo.net,direct
+host-suffix,atum.hac.lp1.d4c.nintendo.net,direct
+host-suffix,atum.hac.lp1.eshop.nintendo.net,direct
+host-keyword,nintendo.cdn,direct
+host-suffix,dl.playstation.net,direct
+host-suffix,update.playstation.net,direct
+host-suffix,download.playstation.net,direct
+host-keyword,playstation.net.edgesuite.net,direct
