@@ -1,0 +1,33 @@
+# Ptcg Pocket
+host-suffix,p-tcgp.com,Game Proxy
+host-suffix,apppokemon.com,Game Proxy
+host-suffix,pokemon-support.com,Game Proxy
+host-keyword,pokemon,Game Proxy
+host,sso.pokemon.com,Game Proxy
+host,login.pokemon.com,Game Proxy
+host,api.p-tcgp.com,Game Proxy
+host,cdn.p-tcgp.com,Game Proxy
+host,api.pokemon-support.com,Game Proxy
+host,pdc-config.pokemon.com,Game Proxy
+host,player-api-prod.app-41283.com,Game Proxy
+host-suffix,app-41283.com,Game Proxy
+host,accounts.nintendo.com,Game Proxy
+host,api.accounts.nintendo.com,Game Proxy
+host,graph.nintendo.com,Game Proxy
+
+# 通用游戏平台代理
+host-suffix,playstation.net,Game Proxy
+host-suffix,playstation.com,Game Proxy
+host-suffix,playstationnetwork.com,Game Proxy
+host-suffix,scea.com,Game Proxy
+host-suffix,sonyentertainmentnetwork.com,Game Proxy
+host-suffix,steamcommunity.com,Game Proxy
+host-suffix,steampowered.com,Game Proxy
+host-suffix,steamstatic.com,Game Proxy
+host-suffix,steam-chat.com,Game Proxy
+host-keyword,steamcloud,Game Proxy
+host-suffix,nintendo.com,Game Proxy
+host-suffix,nintendo.net,Game Proxy
+host-suffix,akamaihd.net,Game Proxy
+host-suffix,akamaized.net,Game Proxy
+host-suffix,cloudfront.net,Game Proxy
